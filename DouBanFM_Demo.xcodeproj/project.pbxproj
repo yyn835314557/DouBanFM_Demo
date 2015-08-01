@@ -7,12 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		77307E181B6C990F003186B8 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77307E171B6C990F003186B8 /* CustomButton.swift */; };
+		774291C01B6BB77000D2F8FB /* IndexImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774291BF1B6BB77000D2F8FB /* IndexImageView.swift */; };
 		774500B51B6B35D9001FD09A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774500B41B6B35D9001FD09A /* AppDelegate.swift */; };
 		774500B71B6B35D9001FD09A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774500B61B6B35D9001FD09A /* ViewController.swift */; };
 		774500BA1B6B35D9001FD09A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 774500B81B6B35D9001FD09A /* Main.storyboard */; };
 		774500BC1B6B35D9001FD09A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 774500BB1B6B35D9001FD09A /* Images.xcassets */; };
 		774500BF1B6B35D9001FD09A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 774500BD1B6B35D9001FD09A /* LaunchScreen.xib */; };
 		774500CB1B6B35D9001FD09A /* DouBanFM_DemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774500CA1B6B35D9001FD09A /* DouBanFM_DemoTests.swift */; };
+		776716B41B6BCE3F0032BB78 /* ChannelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776716B31B6BCE3E0032BB78 /* ChannelViewController.swift */; };
+		776716B91B6BDAEF0032BB78 /* Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776716B61B6BDAEF0032BB78 /* Alamofire.swift */; };
+		776716BB1B6BDAEF0032BB78 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776716B81B6BDAEF0032BB78 /* SwiftyJSON.swift */; };
+		776716BD1B6BDB1F0032BB78 /* HTTPController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776716BC1B6BDB1F0032BB78 /* HTTPController.swift */; };
+		77CAD7061B6CF320008C9565 /* HRToast UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77CAD7051B6CF320008C9565 /* HRToast UIView.swift */; };
+		77D0A29F1B6CBFE6007A86CA /* OrderButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77D0A29E1B6CBFE6007A86CA /* OrderButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +34,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		77307E171B6C990F003186B8 /* CustomButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		774291BF1B6BB77000D2F8FB /* IndexImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IndexImageView.swift; sourceTree = "<group>"; };
 		774500AF1B6B35D9001FD09A /* DouBanFM_Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DouBanFM_Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		774500B31B6B35D9001FD09A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		774500B41B6B35D9001FD09A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +46,12 @@
 		774500C41B6B35D9001FD09A /* DouBanFM_DemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DouBanFM_DemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		774500C91B6B35D9001FD09A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		774500CA1B6B35D9001FD09A /* DouBanFM_DemoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DouBanFM_DemoTests.swift; sourceTree = "<group>"; };
+		776716B31B6BCE3E0032BB78 /* ChannelViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChannelViewController.swift; sourceTree = "<group>"; };
+		776716B61B6BDAEF0032BB78 /* Alamofire.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Alamofire.swift; sourceTree = "<group>"; };
+		776716B81B6BDAEF0032BB78 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		776716BC1B6BDB1F0032BB78 /* HTTPController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HTTPController.swift; sourceTree = "<group>"; };
+		77CAD7051B6CF320008C9565 /* HRToast UIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "HRToast UIView.swift"; sourceTree = "<group>"; };
+		77D0A29E1B6CBFE6007A86CA /* OrderButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,7 +93,13 @@
 		774500B11B6B35D9001FD09A /* DouBanFM_Demo */ = {
 			isa = PBXGroup;
 			children = (
+				776716B51B6BD9D50032BB78 /* ForeignFrameworks */,
 				774500B41B6B35D9001FD09A /* AppDelegate.swift */,
+				77D0A29E1B6CBFE6007A86CA /* OrderButton.swift */,
+				77307E171B6C990F003186B8 /* CustomButton.swift */,
+				774291BF1B6BB77000D2F8FB /* IndexImageView.swift */,
+				776716BC1B6BDB1F0032BB78 /* HTTPController.swift */,
+				776716B31B6BCE3E0032BB78 /* ChannelViewController.swift */,
 				774500B61B6B35D9001FD09A /* ViewController.swift */,
 				774500B81B6B35D9001FD09A /* Main.storyboard */,
 				774500BB1B6B35D9001FD09A /* Images.xcassets */,
@@ -110,6 +132,16 @@
 				774500C91B6B35D9001FD09A /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		776716B51B6BD9D50032BB78 /* ForeignFrameworks */ = {
+			isa = PBXGroup;
+			children = (
+				77CAD7051B6CF320008C9565 /* HRToast UIView.swift */,
+				776716B61B6BDAEF0032BB78 /* Alamofire.swift */,
+				776716B81B6BDAEF0032BB78 /* SwiftyJSON.swift */,
+			);
+			name = ForeignFrameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -213,6 +245,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				774500B71B6B35D9001FD09A /* ViewController.swift in Sources */,
+				77307E181B6C990F003186B8 /* CustomButton.swift in Sources */,
+				77D0A29F1B6CBFE6007A86CA /* OrderButton.swift in Sources */,
+				776716B91B6BDAEF0032BB78 /* Alamofire.swift in Sources */,
+				776716BD1B6BDB1F0032BB78 /* HTTPController.swift in Sources */,
+				77CAD7061B6CF320008C9565 /* HRToast UIView.swift in Sources */,
+				774291C01B6BB77000D2F8FB /* IndexImageView.swift in Sources */,
+				776716B41B6BCE3F0032BB78 /* ChannelViewController.swift in Sources */,
+				776716BB1B6BDAEF0032BB78 /* SwiftyJSON.swift in Sources */,
 				774500B51B6B35D9001FD09A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -409,6 +449,7 @@
 				774500D01B6B35D9001FD09A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		774500D11B6B35D9001FD09A /* Build configuration list for PBXNativeTarget "DouBanFM_DemoTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +458,7 @@
 				774500D31B6B35D9001FD09A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
