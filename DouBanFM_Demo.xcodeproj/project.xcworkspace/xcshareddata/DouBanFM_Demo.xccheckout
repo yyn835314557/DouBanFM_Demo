@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2918D8FF-2856-42CD-9DC0-6CE5DB7A5588</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DouBanFM_Demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D8A135FFDC7A4CAFA2693DEE26FE68725C3AC034</key>
+		<string>github.com:yyn835314557/DouBanFM_Demo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DouBanFM_Demo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D8A135FFDC7A4CAFA2693DEE26FE68725C3AC034</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:yyn835314557/DouBanFM_Demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D8A135FFDC7A4CAFA2693DEE26FE68725C3AC034</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D8A135FFDC7A4CAFA2693DEE26FE68725C3AC034</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DouBanFM_Demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
